@@ -1,0 +1,101 @@
+#map {
+  height: 38vh;
+  border-top: 1px solid rgba(0,0,0,.12);
+  border-radius: 0px 0px 10px 10px;
+}
+
+.main {
+  margin-top: 10px;
+  border: 1px solid rgba(0,0,0,.12);
+  border-radius: 10px;
+  font-family: Helvetica, sans-serif;
+}
+
+.mainTitle {
+  padding: 10px
+}
+
+h2 {
+  letter-spacing: 2px;
+}
+
+html, body {
+  margin-top: 13px;
+  height: 100vh;
+  margin: 13px;
+  padding: 0;
+}
+
+.SearchBar {
+  margin: 0 auto 0 0;
+  padding: 10px;
+  width: 200px;
+  float:left;
+}
+
+#wrapper {
+  border: 1px solid black;
+  overflow: hidden;
+}
+
+.container {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+  font-family: Helvetica, sans-serif;
+  color: rgba(0, 0, 0 , 0.73);
+  font-size: 15px
+}
+
+.container input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+.innerContainer {
+  max-width: 190px
+}
+
+.centerContainers {
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid rgba(0,0,0,.12);
+  max-width: 300px;
+  min-width: 210px;
+}
+
+.centerContainerRight {
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid rgba(0,0,0,.12);
+  max-width: 300px;
+  min-width: 210px;
+}
+
+.action_btn {
+  display: inline-block;
+}
+
+.btn_margin_bot {
+  margin-bottom: 10px;
+}
+
+.btn_margin_top {
+  margin-top: 10px
+}
+
+label {
+  font-size: 13px;
+  color: black;
+  padding: 3px;
+}
+
+h3 {
+  letter-spacing: 1px;
+  line-height: 17px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}

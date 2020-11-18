@@ -1,0 +1,2 @@
+class Covidpoint < ApplicationRecord
+end
